@@ -71,6 +71,60 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 2564147,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Working?",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2148468,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "adsf",
+      "description": "adsf",
+      "location": "asdf",
+      "date": "2019-10-04T14:01:00.000Z",
+      "time": "19:00",
+      "attendees": []
+    },
+    {
+      "id": 8443891,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "asdf",
+      "description": "asdfasdfasd",
+      "location": "dfasdfasd",
+      "date": "2019-10-05T14:02:00.000Z",
+      "time": "22:00",
+      "attendees": []
     }
   ]
 }
